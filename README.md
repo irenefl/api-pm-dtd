@@ -18,8 +18,8 @@ La base de datos para API-PM-DTD fue diseñada como muestra el siguiente diagram
 
 ## Tecnologías🛠️  
 
-· Laravel
-· MySQL
+- Laravel
+- MySQL
 
 
 ## Podrías considerar usar: 
@@ -38,7 +38,7 @@ Una vez haya clonado este repositorio de Github , debe seguir estos pasos para e
 
 
 ## Test 🧾
-- Para lanzar los test, utiliza el comando ` php artisan test`.
+- Para lanzar los test, utiliza el comando `php artisan test`.
 
 
 
